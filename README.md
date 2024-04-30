@@ -1,5 +1,5 @@
 # Ejercicios de SQL - Básico a Avanzado
-## Este repositorio contiene una colección de ejercicios de SQL que estoy realizando, desde un nivel básico hasta un nivel avanzado. Todos los ejercicios están desarrollados en MySQL.
+## Este repositorio contiene una colección de ejercicios de SQL que estoy realizando, desde un nivel básico hasta un nivel avanzado.
 
 ### Contenido
 Los ejercicios se encuentran organizados en carpetas que representan diferentes niveles de dificultad y temas específicos de SQL:
