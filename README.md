@@ -21,10 +21,10 @@ Actualmente no estoy aceptando contribuciones externas, ya que este repositorio 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
 
-# -------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------
 
 # SQL Exercises - Basic to Advanced
-## This repository contains a collection of SQL exercises that I am working on, ranging from basic to advanced levels. All exercises are developed in MySQL.
+## This repository contains a collection of SQL exercises that I am working on, ranging from basic to advanced levels.
 
 ### Contents
 The exercises are organized into folders representing different difficulty levels and specific SQL topics:
