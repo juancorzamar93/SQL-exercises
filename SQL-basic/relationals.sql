@@ -7,7 +7,6 @@ CREATE TABLE users(
 	age int,
 	email varchar(100),
 	created datetime DEFAULT CURRENT_TIMESTAMP,
-	--PRIMARY KEY(user_id),
 	CHECK(age>=18));
 
 
