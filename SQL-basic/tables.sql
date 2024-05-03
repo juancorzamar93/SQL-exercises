@@ -67,6 +67,7 @@ CREATE TABLE persons7(
 
 DROP TABLE persons;
 
+--alternativa:
 If Exists(Select * From Information_Schema.Tables
 Where Table_Schema = 'dbo'
 And Table_Name = 'persons7')
